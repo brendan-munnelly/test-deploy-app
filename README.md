@@ -1,6 +1,6 @@
 # Test Deploy App
 
-Welcome to the Test Deploy App! This is a simple ReactJS application hosted on GitHub Pages.
+Welcome to the Test Deploy App! This is a simple but functional ReactJS application hosted on GitHub Pages.
 
 ## Overview
 
